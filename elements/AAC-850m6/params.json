@@ -1,0 +1,26 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "Google Form",
+    "fields": {
+        "AAN": {
+            "caption": "form_url",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "form_url",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-clipboard",
+    "property_applications": {
+        "Border": false,
+        "MinWidth": true,
+        "Padding": false,
+        "resizable": true
+    }
+}
